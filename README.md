@@ -2,9 +2,8 @@
 
 
 # Zoom-Sales-Analysis
-**Zoom Sales Analysis Readme**
 
-**North Star Metrics and Dimensions:**
+**Methodology:**
 
 - **Sales:** Total subscription sales from Pro, Business, and Business Plus plans.
 - **Plan Type:** Business, Enterprise, or Pro.
