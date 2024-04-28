@@ -14,7 +14,7 @@
 
 **Plan Type:**
 
-- **Enterprise Plans:** Experienced a significant spike at the start of the pandemic, reaching a record-high of $226K bookings in one week. This spike decreased notably during the summer of 2020 and 2021.
+- **Pro Plans:** Experienced a significant spike at the start of the pandemic, reaching a record-high of $404K bookings in one month. This spike decreased notably during the summer of 2020 and 2021.
 - **Business Plans:** Witnessed a drop-off towards the end of 2021. Further investigation is needed to determine if there are product issues or new competitors impacting this market.
 
 **Plan Period:**
