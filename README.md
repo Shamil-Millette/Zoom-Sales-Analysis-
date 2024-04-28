@@ -1,4 +1,4 @@
-# Zoom-Sales-Analysis-
+# Zoom-Sales-Analysis
 **Zoom Sales Analysis Readme**
 
 **North Star Metrics and Dimensions:**
