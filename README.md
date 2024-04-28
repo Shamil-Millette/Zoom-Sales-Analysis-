@@ -23,7 +23,7 @@
 
 **Plan Region:**
 
-- **North America:** Dominated weekly bookings during the peak-COVID months in early 2020, particularly in the Enterprise segment.
+- **EMEA:** Dominated weekly bookings during the peak-COVID months in early 2020, particularly in the Enterprise segment.
   
 **Recommendations & Next Steps:**
 
