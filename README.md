@@ -1,7 +1,9 @@
+# Zoom Subscription Analysis
+  Zoom Sales Analysis 2019-2021. Click [here](https://public.tableau.com/app/profile/shamil.millette/viz/ZoomSales_17142638891500/ZoomDashboard#1) interactive dashboard.
 <img width="1440" alt="Screenshot 2024-04-27 at 8 35 56 PM" src="https://github.com/Shamil-Millette/Zoom-Sales-Analysis-/assets/162630888/821e5356-4eae-4f4e-9bd5-511bfb7f966f">
 
 
-# Zoom-Sales-Analysis
+
 
 **Methodology:**
 
