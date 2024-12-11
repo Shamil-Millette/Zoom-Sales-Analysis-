@@ -48,8 +48,7 @@ create or replace temp table finance.daily_subs_country_rates as (
         and daily_subs_clean_country.sub_start_month = exchange_rates.date);
 
 select * from finance.daily_subs_country_rates;
-
---INTERMEDIATE SQL (BONUS POINTS): COMBINE ALL CALCULATIONS INTO ONE QUERY USING CTEs
+a
 --create a script using CTEs to do all calculations in one query
 with daily_subs_clean as (
     select sub_start_ts::date as sub_start_date,
